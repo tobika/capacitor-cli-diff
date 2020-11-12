@@ -1,0 +1,5 @@
+node_modules
+gradle-wrapper.jar
+diff-app/android/app/src/main/assets/
+diff-app/package-lock.json
+.idea
