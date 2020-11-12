@@ -3,6 +3,5 @@
     <string name="app_name">diff-app</string>
     <string name="title_activity_main">diff-app</string>
     <string name="package_name">com.tobik.diffapp</string>
-    <string name="fileprovider_authority">com.tobik.diffapp.fileprovider</string>
     <string name="custom_url_scheme">com.tobik.diffapp</string>
 </resources>
