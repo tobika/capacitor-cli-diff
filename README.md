@@ -1,6 +1,6 @@
 # Capacitor CLI diff for @capacitor/android
 
-This repository exposes an Capacitor CLI app generated with
+This repository exposes a Capacitor CLI app generated with
 `npx cap init` and `npx add android` with each version of Capacitor CLI.
 
 A dedicated branch per version makes changes very easy
@@ -55,6 +55,6 @@ Version|Compare view|Stats
 
 After an upgrade of `@capacitor/core` and `@capacitor/android` on your project, you'll have to keep the configuration up-to-date, and it can be hard to keep track.
 
-This project lets you easily know what changed. For example, from
+This project let you easily know what changed. For example, from
 [1.5.3 to the 2.0.0](https://github.com/tobika/capacitor-cli-diff/compare/1.5.3...2.0.0).
 
