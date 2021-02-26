@@ -1,0 +1,7 @@
+{
+  "appId": "com.tobik.diffapp",
+  "appName": "diff-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
